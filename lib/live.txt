@@ -1468,4 +1468,4 @@ WWE,http://iptv12k.com:35461/live/test167/12345/652.m3u8
 罪案侦缉,http://iptv12k.com:35461/live/test167/12345/1246.m3u8
 
 Testing,#genre#
-Youtube,https://www.youtube.com/watch?v=pJm7CyWWgfg&list=RDpJm7CyWWgfg&start_radio=1&rv=PnHtWcZPFzM
+Youtube,https://www.youtube.com/watch?v=pJm7CyWWgfg&list=RDpJm7CyWWgfg&index=1
