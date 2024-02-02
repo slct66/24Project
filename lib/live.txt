@@ -337,6 +337,7 @@ Z频道,mitv://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 重庆卫视,mitv://generationnexxxt.com:19806/c173700eaecc412695b37ac062b6abac
 珠江台,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
 罪案侦缉频道,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
+八大综合台,mitv://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
 
 
 198/50,#genre#
