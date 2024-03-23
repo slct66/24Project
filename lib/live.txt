@@ -603,8 +603,6 @@ TVBS亚洲台,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
 中天综合台,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 
 198/50,#genre#
-
-
 TVBS 新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS 新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 华艺影剧台,http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
@@ -834,6 +832,22 @@ Astro Awani (720p),https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413e
 Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 Okey,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 TV3,https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+
+
+马来西亚,#genre#
+TV1,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv1.m3u8
+TV2,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv2.m3u8
+TV3,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/TV3.m3u8
+TV Okey,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/okey.m3u8
+BERITA RTM,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/berita.m3u8
+DidikTVKPM,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/DidikTv.m3u8
+TV6,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/tv6.m3u8
+八度空间,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/8TV.m3u8
+TV9,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/tonton/TV9.m3u8
+DEWAN RAKYAT,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/rakyat.m3u8
+SUKAN RTM,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/sukan.m3u8
+DEWAN NEGARA,https://gohhh1234-live-tv.gohkh6.my.eu.org/m3u8/rtm_6iMXFR/rtm/negara.m3u8
+
 
 秒开,#genre#
 凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
