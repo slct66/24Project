@@ -1147,17 +1147,17 @@ TVBS亚洲台,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
 中天综合台,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
 
 戏剧,#genre#
-东森戏剧台,p2p://generationnexxxt.com:19806/224f7e2fe4b94bddb3ecc557fc231ebb
-八大戏剧台,p2p://generationnexxxt.com:19806/c0c91a7a2bb14c9d8db31352154c8e3f
-纬来戏剧台,p2p://generationnexxxt.com:19806/47f083eee795451e90bdc998973844a8
-三立戏剧台,p2p://generationnexxxt.com:19806/8490acf47e0e429a9e7c8e6ceeaf4291
-龙华戏剧,p2p://generationnexxxt.com:19806/14a949449b7d4e6fb332a07c72adb445
-龙华偶像,p2p://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
-靖天戏剧台,p2p://generationnexxxt.com:19806/f3688fd73db1459ab89cac2dbd6380a6
-靖洋戏剧台,p2p://generationnexxxt.com:19806/2517bb64fadd4cc8ac425754b0756340
-EYETV戏剧台,p2p://generationnexxxt.com:19806/99128d1ff6fd492798705b48bae33056
-爱尔达影剧台,p2p://generationnexxxt.com:19806/dae039e815934ea0a6ac0bb48bd94dfd
-亚洲剧台,p2p://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
+东森戏剧台,mitv://generationnexxxt.com:19806/224f7e2fe4b94bddb3ecc557fc231ebb
+八大戏剧台,mitv://generationnexxxt.com:19806/c0c91a7a2bb14c9d8db31352154c8e3f
+纬来戏剧台,mitv://generationnexxxt.com:19806/47f083eee795451e90bdc998973844a8
+三立戏剧台,mitv://generationnexxxt.com:19806/8490acf47e0e429a9e7c8e6ceeaf4291
+龙华戏剧,mitv://generationnexxxt.com:19806/14a949449b7d4e6fb332a07c72adb445
+龙华偶像,mitv://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
+靖天戏剧台,mitv://generationnexxxt.com:19806/f3688fd73db1459ab89cac2dbd6380a6
+靖洋戏剧台,mitv://generationnexxxt.com:19806/2517bb64fadd4cc8ac425754b0756340
+EYETV戏剧台,mitv://generationnexxxt.com:19806/99128d1ff6fd492798705b48bae33056
+爱尔达影剧台,mitv://generationnexxxt.com:19806/dae039e815934ea0a6ac0bb48bd94dfd
+亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 
 198/50,#genre#
 TVBS 新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
