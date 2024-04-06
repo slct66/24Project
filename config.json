@@ -2,40 +2,26 @@
   "spider": "./custom_spider.jar",
   "spider": "./lib/fty.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-   const huaGetAddress = require('./lib/hua.js'); // Import getAddress from hua.js
-
-// Your lives array
-const lives = [
+ "lives": [
     {
-        "name": "tvlive",
-        "type": 0,
-        "url": "./lib/live.txt",
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "tvlive",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-        "name": "hua",
-        "type": 0,
-        "url": "./lib/hua.js", // Now referencing hua.js
-        "playerType": 1,
-        "ua": "okhttp/3.15",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
+   {
+      "name": "hua",
+      "type": 0,
+      "url": "./lib/hua.js",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-];
-
-// Loop through the lives array
-lives.forEach(async live => {
-    // Call getAddress function for each live entry
-    try {
-        const url = await huaGetAddress(live);
-        console.log('URL for', live.name, ':', url);
-    } catch (error) {
-        console.error('Error fetching URL for', live.name, ':', error);
-    }
-});
+  ],
   "sites": [
      {
       "key": "豆豆",
