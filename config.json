@@ -5,8 +5,8 @@
   "lives": [
     {
       "name": "test",
-      "type": 0,
-      "url": "./lib/test.txt",
+      "type": 1,
+      "url": "./lib/test.js",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
