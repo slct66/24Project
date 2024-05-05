@@ -744,7 +744,8 @@
 			{
 				"name": "live.txt",
 				"type": 0,
-				"url": "https://raw.githubusercontent.com/slct66/24Project/main/lib/live.txt?X-FORWARDED-FOR=127.0.0.1",
+				"api": "./lib/TV1.js",
+           			"ext": "./lib/TV1.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
