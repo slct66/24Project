@@ -744,14 +744,12 @@
 			{
 				"name": "live.txt",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/slct66/24Project/main/lib/live.txt",
+				"url": "https://raw.githubusercontent.com/slct66/24Project/main/lib/live.txt?X-FORWARDED-FOR=127.0.0.1",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-				"headers": {
-            			"CLIENT-IP": "127.0.0.1",
-            			"X-FORWARDED-FOR": "127.0.0.1"
+
 			},
 			{
 				"name": "live.ipv6",
