@@ -16,8 +16,8 @@
 			"name": "🐼️┃电视┃直播",
 			"type": 3,
 			"searchable": 0,
-			"api": "./lib/xmlive2vod.js",
-			"ext": "./lib/feimaolive.json"
+			"api": "./lib/TV2.js",
+			"ext": "./lib/TV2.txt"
 		},
 		{"key": "网盘配置",
 			"name": "网盘及彈幕配置",
