@@ -767,9 +767,8 @@
       "type": 0,
       "url": "./lib/TV1.txt",
       "header": {
-        "Content-Type": "text/json;charset=UTF-8",
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
+        "X-Forwarded-For": 
+            "127.0.0.1"
       },
       "playerType": 1,
       "ua": "okhttp/3.15",
