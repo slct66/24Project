@@ -2,16 +2,24 @@
   "spider": "./custom_spider.jar",
   "spider": "./lib/fty.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+{
   "lives": [
     {
       "name": "test",
       "type": 1,
       "url": "./lib/test.js",
+      "header": {
+        "Content-Type": "text/json;charset=UTF-8",
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      },
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    }
+  ]
+}
   ],
   "sites": [
      {
