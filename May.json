@@ -741,17 +741,20 @@
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[
-			{
-				"name": "live.txt",
-				"type": 0,
-				"api": "./lib/TV1.js",
-           			"ext": "./lib/TV1.txt",
-				"playerType": 1,
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-
-			},
+			 {
+      				"name": "test",
+      				"type": 1,
+      				"url": "./lib/TV1.txt",
+      				"header": {
+        			"Content-Type": "text/json;charset=UTF-8",
+        			"CLIENT-IP": "127.0.0.1",
+        			"X-FORWARDED-FOR": "127.0.0.1"
+      				},
+      				"playerType": 1,
+      				"ua": "okhttp/3.15",
+      				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      				"logo": "https://epg.112114.xyz/logo/{name}.png"
+    			}
 			{
 				"name": "live.ipv6",
 				"type": 0,
